@@ -79,7 +79,7 @@ export function BingoGame({ onClose }: BingoGameProps) {
         {/* Header */}
         <div className="flex items-center gap-1.5 mb-1.5 text-[#ef4444]">
           <Gift className="w-5 h-5 animate-bounce" />
-          <span className="text-[10px] uppercase tracking-[0.2em] font-bold text-[#8a8a82]">Special Anniversary Reward</span>
+          <span className="text-[10px] uppercase tracking-[0.2em] font-bold text-[#8a8a82]">Special Sania's day</span>
         </div>
 
         <h2 className="font-serif text-2xl sm:text-3xl font-black text-[#1a1a18] tracking-tight">
