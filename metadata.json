@@ -1,0 +1,6 @@
+{
+  "name": "Buku Digital Ulang Tahun",
+  "description": "Buku digital interaktif kado ulang tahun spesial dengan efek 3D flipbook, video animasi, musik, dan bingo hadiah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
