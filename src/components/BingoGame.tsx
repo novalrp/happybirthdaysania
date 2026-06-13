@@ -216,7 +216,7 @@ export function BingoGame({ onClose }: BingoGameProps) {
                     </span>
                   </p>
                   <div className="flex gap-4 mt-3 text-[9px] font-mono text-[#8a8a82] font-semibold uppercase tracking-wider">
-                    <span>SEALED: ANNIV-2026-OK</span>
+                    <span>SEALED: HBD-2026-OK</span>
                     <span>DATE: 13.06.2026</span>
                   </div>
                 </div>
